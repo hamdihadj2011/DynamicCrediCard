@@ -1,0 +1,40 @@
+.container {
+    font-family: sans-serif;
+    color: #fff;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnQ1kkVwq-UFAYSyHmbdO7rFGQsxlG0MFSsCyZpZnQp9rQ9XJJ");
+    width: 500px;
+    height: 450px;
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 5px;
+    padding-top: 8px;
+    padding-left: 15px;
+    padding-right: 10px;
+    margin: 25px 0 0 25px
+  }
+  .container h1 {
+    text-align: center;
+  }
+  
+  .img {
+    border-radius: 5px;
+  }
+  
+  .flex {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+  }
+  
+  .parg {
+    background-color: rgba(247, 89, 89, 0.5);
+    line-height: 1.8;
+    padding: 0 8px;
+    letter-spacing: 7.2px;
+  }
+  
+  .flex2 {
+    display: flex;
+    justify-content: space-between;
+  }
